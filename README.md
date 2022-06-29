@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello! I am Robert! :nerd_face: :technologist:
+
+## About Me:
+- :notebook: Pronouns: he/him ([What is this?](https://www.mypronouns.org/what-and-why))
+- 🎓 Master of Science in Computer Science @ [Seattle U](https://www.seattleu.edu/scieng/computer-science/graduate/mscs/)
 
 <!--
 **brownr4000/brownr4000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
