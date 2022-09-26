@@ -1,7 +1,7 @@
 ## Hello! I am Bobby! :nerd_face: :technologist:
 
 ## About Me:
-- :notebook: Pronouns: he/him ([What is this?](https://www.mypronouns.org/what-and-why))
+- :notebook: Pronouns: he/they ([What is this?](https://www.mypronouns.org/what-and-why))
 - 🎓 Master of Science in Computer Science @ [Seattle U](https://www.seattleu.edu/scieng/computer-science/graduate/mscs/)
 - 🔭 I’m currently working on:
   - Rewriting a BASIC game in modern languages (Super Star Trek)
