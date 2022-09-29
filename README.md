@@ -4,8 +4,8 @@
 - :notebook: Pronouns: he/they ([What is this?](https://www.mypronouns.org/what-and-why))
 - 🎓 Master of Science in Computer Science @ [Seattle U](https://www.seattleu.edu/scieng/computer-science/graduate/mscs/)
 - 🔭 I’m currently working on:
-  - Rewriting a BASIC game in modern languages (Super Star Trek)
-  - Applying software testing to game programming
+  - Learning Distributed Systems
+  - Developing a Capstone Project for my final two quarters
 - ⚡ Fun facts:
   - Former aerospace engineer
   - 💖 [LEGO](https://www.lego.com/en-us)
