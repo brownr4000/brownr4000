@@ -5,7 +5,7 @@
 - 🎓 Master of Science in Computer Science @ [Seattle U](https://www.seattleu.edu/scieng/computer-science/graduate/mscs/)
 - 🔭 I’m currently working on:
   - Learning Unity and Unreal
-  - Practicing Blind 75 and Neetcodde 150
+  - Practicing Blind 75 and Neetcode 150
 - ⚡ Fun facts:
   - Former aerospace engineer
   - 💖 [LEGO](https://www.lego.com/en-us)
